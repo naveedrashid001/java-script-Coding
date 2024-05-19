@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.D-btn{
+    margin-left: 5px;
+    margin-top: 7px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 9px;
+    color: white;
+    background-color:#0D6EFD;
+}
