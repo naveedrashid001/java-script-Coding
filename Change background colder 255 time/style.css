@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: capitalize;
+}
+#container{
+    background-color: aqua;
+    border-radius: 20px;
+    height: 250px;
+    padding: 10px 20px;
+}
+#container > h3, p{
+    text-align: center;
+
+}
+#btn{box-sizing: border-box;
+    margin-top: 10px;
+    width: 100%;
+}
